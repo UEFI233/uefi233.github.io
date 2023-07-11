@@ -57,3 +57,9 @@ a > img, .justified-gallery > div > img,
 .justified-gallery > div > a > svg,
 .justified-gallery > figure > a > svg{
   position:static!important;}
+
+/*GitHub开源圆角*/
+#card-info-btn {
+  border-radius: 7px;
+  overflow: hidden;
+}
