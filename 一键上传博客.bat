@@ -1,4 +1,4 @@
 cd D:\uefi233Blog
 git add .
-git commit -m "åˆæ›´æ–°hexoäº†"
+git commit -m "ÓÖ¸üĞÂhexoÁË"
 git push origin gh-pages   
